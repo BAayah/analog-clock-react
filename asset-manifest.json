@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/analog-clock-react/static/css/main.cd9069ae.css",
+    "main.js": "/analog-clock-react/static/js/main.4c006694.js",
+    "index.html": "/analog-clock-react/index.html",
+    "main.cd9069ae.css.map": "/analog-clock-react/static/css/main.cd9069ae.css.map",
+    "main.4c006694.js.map": "/analog-clock-react/static/js/main.4c006694.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd9069ae.css",
+    "static/js/main.4c006694.js"
+  ]
+}
